@@ -91,7 +91,21 @@
 /PROJELER/Toplama Mekanigi/[Ll]ogs/
 /PROJELER/Toplama Mekanigi/[Uu]ser[Ss]ettings/
 
+/PROJELER/Wordle Clone/[Ll]ibrary/
+/PROJELER/Wordle Clone/[Tt]emp/
+/PROJELER/Wordle Clone/[Oo]bj/
+/PROJELER/Wordle Clone/[Bb]uild/
+/PROJELER/Wordle Clone/[Bb]uilds/
+/PROJELER/Wordle Clone/[Ll]ogs/
+/PROJELER/Wordle Clone/[Uu]ser[Ss]ettings/
 
+/PROJELER/Breakout Clone/[Ll]ibrary/
+/PROJELER/Breakout Clone/[Tt]emp/
+/PROJELER/Breakout Clone/[Oo]bj/
+/PROJELER/Breakout Clone/[Bb]uild/
+/PROJELER/Breakout Clone/[Bb]uilds/
+/PROJELER/Breakout Clone/[Ll]ogs/
+/PROJELER/Breakout Clone/[Uu]ser[Ss]ettings/
 
 
 
@@ -120,6 +134,8 @@
 /PROJELER/Roller Splat/[Mm]emoryCaptures/
 /PROJELER/Bullet Rush/[Mm]emoryCaptures/
 /PROJELER/Toplama Mekanigi/[Mm]emoryCaptures/
+/PROJELER/Wordle Clone/[Mm]emoryCaptures/
+/PROJELER/Breakout Clone/[Mm]emoryCaptures/
 # Recordings can get excessive in size
 /PROJELER/AA Game/[Rr]ecordings/
 /PROJELER/Civilization 2D/[Rr]ecordings/
@@ -132,6 +148,8 @@
 /PROJELER/Roller Splat/[Rr]ecordings/
 /PROJELER/Bullet Rush/[Rr]ecordings/
 /PROJELER/Toplama Mekanigi/[Rr]ecordings/
+/PROJELER/Wordle Clone/[Rr]ecordings/
+/PROJELER/Breakout Clone/[Rr]ecordings/
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
 
@@ -147,6 +165,8 @@
 /PROJELER/Roller Splat/[Aa]ssets/Plugins/Editor/JetBrains*
 /PROJELER/Bullet Rush/[Aa]ssets/Plugins/Editor/JetBrains*
 /PROJELER/Toplama Mekanigi/[Aa]ssets/Plugins/Editor/JetBrains*
+/PROJELER/Wordle Clone/[Aa]ssets/Plugins/Editor/JetBrains*
+/PROJELER/Breakout Clone/[Aa]ssets/Plugins/Editor/JetBrains*
 # Visual Studio cache directory
 .vs/
 
@@ -200,6 +220,8 @@ crashlytics-build.properties
 /PROJELER/Roller Splat/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 /PROJELER/Bullet Rush/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 /PROJELER/Toplama Mekanigi/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/PROJELER/Wordle Clone/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/PROJELER/Breakout Clone/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 # Temporary auto-generated Android Assets
 /PROJELER/AA Game/[Aa]ssets/[Ss]treamingAssets/aa.meta
 /PROJELER/Civilization 2D/[Aa]ssets/[Ss]treamingAssets/aa.meta
@@ -212,6 +234,8 @@ crashlytics-build.properties
 /PROJELER/Roller Splat/[Aa]ssets/[Ss]treamingAssets/aa.meta
 /PROJELER/Bullet Rush/[Aa]ssets/[Ss]treamingAssets/aa.meta
 /PROJELER/Toplama Mekanigi/[Aa]ssets/[Ss]treamingAssets/aa.meta/*
+/PROJELER/Wordle Clone/[Aa]ssets/[Ss]treamingAssets/aa.meta/*
+/PROJELER/Breakout Clone/[Aa]ssets/[Ss]treamingAssets/aa.meta/*
 
 /PROJELER/AA Game/[Aa]ssets/[Ss]treamingAssets/aa/*
 /PROJELER/Civilization 2D/[Aa]ssets/[Ss]treamingAssets/aa/*
@@ -224,6 +248,8 @@ crashlytics-build.properties
 /PROJELER/Roller Splat/[Aa]ssets/[Ss]treamingAssets/aa/*
 /PROJELER/Bullet Rush/[Aa]ssets/[Ss]treamingAssets/aa/*
 /PROJELER/Toplama Mekanigi/[Aa]ssets/[Ss]treamingAssets/aa/*
+/PROJELER/Wordle Clone/[Aa]ssets/[Ss]treamingAssets/aa/*
+/PROJELER/Breakout Clone/[Aa]ssets/[Ss]treamingAssets/aa/*
 
 
 
